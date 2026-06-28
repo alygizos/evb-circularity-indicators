@@ -1,0 +1,10 @@
+material,mass,recycling_efficiency,energy_virgin,energy_recycling,recovery_rate,adp_fossil
+steel,28.95,0.95,5.5,0.6875,,
+aluminum,37.46,0.99,20.27,0.6,,
+cell_total,202,,647.182,21,,6197.655556
+cell_material_LiOH,13.49,,45.52,2.022835,0.912,685.741667
+cell_material_Al,7.095,,120.6,1.091314,0.9355,358.691667
+cell_material_Cu,33.345,,291.8,5.252305,0.958,944.775
+cell_material_CoSO4,30.8,,127.8,4.253865,0.84,3182.666667
+cell_material_NiSO4,30.8,,32.95,4.238673,0.837,932.555556
+cell_material_MnSO4,29.7,,28.512,4.141007,0.848,93.225

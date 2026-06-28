@@ -1,0 +1,7 @@
+# NMC811 circularity-indicator box — Python dependencies
+# Tested with Python 3.12.9 on Windows. Install with:  pip install -r requirements.txt
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+seaborn>=0.13
+SALib>=1.5
