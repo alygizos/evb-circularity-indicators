@@ -1,3 +1,5 @@
+**A Multi-Indicator Framework for Evaluating Circularity Performance of Electric Vehicle Batteries (JMSE)**
+
 # EV Battery Circularity Indicators — NMC811 and LFP Cases
 
 This repository contains two self-contained analysis packages for evaluating circularity indicators for electric vehicle batteries:
